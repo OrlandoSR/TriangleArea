@@ -58,5 +58,7 @@ public class Main {
      
     Triangle theTriangle1 = new Triangle(10.0,10.0,10.0);
      area = theTriangle1.areaOfTriangle();
+     
+     System.out.println("Test 1");
   }
 }
